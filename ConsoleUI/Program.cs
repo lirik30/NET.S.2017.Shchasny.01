@@ -1,5 +1,5 @@
 ﻿using System;
-using QucikSortLogic;
+using Sorting;
 
 namespace ConsoleUI
 {
@@ -10,7 +10,7 @@ namespace ConsoleUI
             int[] arr = new int[15] { 8, 17, 8, 4, 82, 59, 97, 61, 35, 10, 34, 48, 27, 75, 60 };
             Output(arr);
             Console.WriteLine();
-            QuickSortLogic.QuickSort(arr);
+            Sort.MergeSort(arr);
             Output(arr);
             Console.ReadKey();
         }

@@ -1,5 +1,0 @@
-C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\QucikSort\bin\Debug\QucikSort.dll
-C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\QucikSort\bin\Debug\QucikSort.pdb
-C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\QucikSort\obj\Debug\QucikSort.dll
-C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\QucikSort\obj\Debug\QucikSort.pdb
-C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\QucikSort\obj\Debug\QucikSort.csprojResolveAssemblyReference.cache

@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\QucikSort\QucikSort.csproj">
-      <Project>{c95ea780-a9eb-4173-b730-d46c84d64e94}</Project>
-      <Name>QucikSort</Name>
+    <ProjectReference Include="..\Sort\Sort.csproj">
+      <Project>{452fcd5d-a63e-402f-a53d-678f2469a488}</Project>
+      <Name>Sort</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{D9CF05E4-A7F5-473F-9969-E7F804270CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QucikSort", "QucikSort\QucikSort.csproj", "{C95EA780-A9EB-4173-B730-D46C84D64E94}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort", "Sort\Sort.csproj", "{452FCD5D-A63E-402F-A53D-678F2469A488}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{D9CF05E4-A7F5-473F-9969-E7F804270CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9CF05E4-A7F5-473F-9969-E7F804270CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9CF05E4-A7F5-473F-9969-E7F804270CD9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C95EA780-A9EB-4173-B730-D46C84D64E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C95EA780-A9EB-4173-B730-D46C84D64E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C95EA780-A9EB-4173-B730-D46C84D64E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C95EA780-A9EB-4173-B730-D46C84D64E94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452FCD5D-A63E-402F-A53D-678F2469A488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452FCD5D-A63E-402F-A53D-678F2469A488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452FCD5D-A63E-402F-A53D-678F2469A488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452FCD5D-A63E-402F-A53D-678F2469A488}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
