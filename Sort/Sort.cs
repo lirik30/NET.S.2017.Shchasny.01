@@ -6,19 +6,53 @@ using System.Threading.Tasks;
 
 namespace Sorting
 {
-    static public class Sort
+    /// <summary>
+    /// Class that contains diff types of sotring method
+    /// </summary>
+    public static class Sort
     {
+        /// <summary>
+        /// Method for sorting by merge
+        /// </summary>
+        /// <param name="arr">
+        /// Array of integers
+        /// </param>
         public static void MergeSort(int[] arr)
         {
+            ArrayChecking(arr);
             int[] temp_arr = new int[arr.Length];
             MergeSort(arr, temp_arr, 0, arr.Length - 1);
         }
 
+
+        /// <summary>
+        /// Method for quick sort
+        /// </summary>
+        /// <param name="arr">
+        /// Array of integers
+        /// </param>
         public static void QuickSort(int[] arr)
         {
+            ArrayChecking(arr);
             QuickSort(arr, 0, arr.Length - 1);
         }
 
+
+        /// <summary>
+        /// Main method for merge sort
+        /// </summary>
+        /// <param name="arr">
+        /// Array of integers
+        /// </param>
+        /// <param name="temp_arr">
+        /// Temporary array of integers
+        /// </param>
+        /// <param name="left">
+        /// The left bound for part of array that is sorted
+        /// </param>
+        /// <param name="right">
+        /// The right bound for part of array that is sorted
+        /// </param>
         private static void MergeSort(int[] arr, int[] temp_arr, int left, int right)
         {
             if (right <= left)
@@ -32,6 +66,10 @@ namespace Sorting
             MergeHelper(arr, temp_arr, left, mid, right);
         }
 
+
+        /// <summary>
+        /// Supporting method for the merge sort
+        /// </summary>
         private static void MergeHelper(int[] arr, int[] temp_arr, int left, int mid, int right)
         {
             int i = left, j = mid + 1;
@@ -55,8 +93,15 @@ namespace Sorting
                 int temp = temp_arr[k];
                 arr[k] = temp;
             }
-        }        
+        }
 
+
+        /// <summary>
+        /// Main method for the quick sort
+        /// </summary>
+        /// <param name="arr">Array of integers</param>
+        /// <param name="left">The left bound of sorted part of array</param>
+        /// <param name="right">The right bound of sorted part of array</param>
         private static void QuickSort(int[] arr, int left, int right)
         {
             int i = left;
@@ -87,5 +132,17 @@ namespace Sorting
                 QuickSort(arr, i, right);
         }
 
+
+        /// <summary>
+        /// Checking an array for zero length and null
+        /// </summary>
+        /// <param name="arr"></param>
+        private static void ArrayChecking(int[] arr)
+        {
+            if(arr == null)
+                throw new ArgumentNullException();
+            if(arr.Length == 0)
+                throw new ArgumentException();
+        }
     }
 }

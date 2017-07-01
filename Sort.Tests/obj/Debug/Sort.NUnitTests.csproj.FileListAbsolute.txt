@@ -1,0 +1,9 @@
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\Sort.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\Sort.Tests.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\Sort.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\Sort.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\obj\Debug\Sort.NUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\obj\Debug\Sort.Tests.dll
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort.Tests\obj\Debug\Sort.Tests.pdb

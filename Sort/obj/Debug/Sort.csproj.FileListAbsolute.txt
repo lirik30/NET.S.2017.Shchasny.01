@@ -2,3 +2,4 @@ C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort
 C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort\bin\Debug\Sort.pdb
 C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort\obj\Debug\Sort.dll
 C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort\obj\Debug\Sort.pdb
+C:\Users\Kiril\documents\visual studio 2017\Projects\NET.S.2017.Shchasny.01\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
